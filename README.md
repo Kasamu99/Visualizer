@@ -2,10 +2,13 @@
 # SolChat ✨
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/solchat-dev/solchat/ci.yml?branch=main)](https://github.com/solchat-dev/solchat/actions)
 [![Last Commit](https://img.shields.io/github/last-commit/solchat-dev/solchat.svg)](https://github.com/solchat-dev/solchat/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/solchat-dev/solchat)](https://github.com/solchat-dev/solchat)
 [![Stars](https://img.shields.io/github/stars/solchat-dev/solchat?style=social)](https://github.com/solchat-dev/solchat/stargazers)
+![TypeScript](https://img.shields.io/badge/TypeScript-88.1%25-blue?logo=typescript)
+![Svelte](https://img.shields.io/badge/Svelte-8.6%25-orange?logo=svelte)
+![JavaScript](https://img.shields.io/badge/JavaScript-2.5%25-yellow?logo=javascript)
+![CSS](https://img.shields.io/badge/CSS-0.8%25-blueviolet?logo=css3)
 
 **SolChat** is a secure, decentralized peer-to-peer messaging application built on the Solana blockchain. It features end-to-end encryption, decentralized file sharing, and a modern UI, providing a private and robust communication experience.
 
@@ -107,25 +110,6 @@ yarn dev
 - IPFS / Helia
 - TweetNaCl
 - LocalStorage
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to your fork:
-   ```bash
-   git push origin feature/your-feature
-   ```
-5. Open a Pull Request.
 
 ---
 
